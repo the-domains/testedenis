@@ -1,0 +1,23 @@
+name: testedenis
+favicon: null
+layout_spectrum: 0.7386210984550416
+typography_spectrum: 0.12324552843347192
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.12680130871012807
+  lightness: 0.7817755935247988
+  saturation: 0.26782184187322855
+  rhythmicContrast: 0.047818530816584826
+purpose: []
